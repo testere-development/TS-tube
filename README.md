@@ -25,6 +25,7 @@ Tətbiqi Android telefonunuza yükləyib quraşdırmaq üçün aşağıdakı add
 * **🌓 Mövzu (Theme) Seçimləri:** Zövqünüzə görə Qaranlıq (Dark) və İşıqlı (Light) rejimlər arasında keçid edin.
 
 ---
+![TS Tube Screenshot](./Screenshot_2026-09-22-06-54-43-837_com.testere.tstube.jpg)
 
 ## 🛠️ İstifadə Olunan Texnologiyalar
 
