@@ -18,7 +18,7 @@ Tətbiqi Android telefonunuza yükləyib quraşdırmaq üçün aşağıdakı add
 ## ✨ Əsas Xüsusiyyətlər
 
 * **📥 Çeşidli Video Yükləmə:** İstədiyiniz video keçidini daxil edərək mövcud keyfiyyətləri avtomatik yoxlaya və istədiyiniz keyfiyyətlə yükləyə bilərsiniz.
-* **▶️ Qabaqcıl Video Pleyeri:** İki dəfə toxunmaqla irəli/geri sarıma, səs və parlaqlıq jestləri, sürətləndirmə kimi funksiyaları dəstəkləyən daxili pleyer.
+* **▶️ Qabaqcıl Video Pleyeri:** İki dəfə toxunmaqla irəli/geri sarıma, səs və sürətləndirmə kimi funksiyaları dəstəkləyən daxili pleyer.
 * **🔄 Qaldığın Yerdən Davam Et:** Videonu yarıda bağlasanız belə, tətbiq son baxdığınız nöqtəni avtomatik yadda saxlayır və növbəti dəfə həmin yerdən davam edir.
 * **📂 Kitabxana İdarəetməsi:** Yüklənmiş videolarınızı bir yerdə görün, başlıqlarına və keyfiyyətlərinə baxın və ya istədiyiniz zaman silin.
 * **🌍 Çoxdilli Dəstək:** Azərbaycan, İngilis, Türk, Rus, Ərəb, İspan, Fransız, Alman və Portuqal dilləri dəstəklənir.
