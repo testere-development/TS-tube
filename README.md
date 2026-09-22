@@ -27,6 +27,8 @@ Tətbiqi Android telefonunuza yükləyib quraşdırmaq üçün aşağıdakı add
 ---
 ![TS Tube Screenshot](./Screenshot_2026-09-22-06-54-43-837_com.testere.tstube.jpg)
 
+![TS Tube Screenshot](./Screenshot_2026-09-22-06-54-41-541_com.testere.tstube.jpg)
+
 ## 🛠️ İstifadə Olunan Texnologiyalar
 
 * **Python**
